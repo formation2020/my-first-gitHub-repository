@@ -2,3 +2,4 @@
 My first  GitHub repository, let s get started with GitHub
 
 this file was modified manuallay during conflict resolution
+new line was added locally
